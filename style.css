@@ -18,3 +18,7 @@ th {
 ul {
    margin:0;
 }
+#planets {
+  margin:auto;
+  width:800px;
+}
